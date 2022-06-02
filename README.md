@@ -1,6 +1,6 @@
 MS-MSDT-Proactive-remediation
 =======
-Uses Intune Proactive remediations to detect and Move the MS-MSDT class.
+Uses Intune Proactive remediations to detect and Move the MS-MSDT class, this is to address CVE-2022-30190 (Follina) Vulnerability.
 
 Intune Proactive Remediations
 -------
