@@ -15,8 +15,8 @@ Scripts
 -------
 Detection and remediation scripts will be required when you setup the proactive remediation script package in Intune.
 
-Detection-MSDT.ps1 - Checks if Key exists reports exit code 1 if true or on failure, reports 0 if key is not present.
+```Detection-MSDT.ps1``` - Checks if Key exists reports exit code 1 if true or on failure, reports 0 if key is not present.
 
-Remediate-MSDT.ps1 - Renames MS-MSDT key to keep a backup for future restoration.
+```Remediate-MSDT.ps1``` - Renames MS-MSDT key to keep a backup for future restoration.
 
 *No responsibility is taken for the use of these scripts.
